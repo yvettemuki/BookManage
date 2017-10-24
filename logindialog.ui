@@ -13,6 +13,9 @@
   <property name="windowTitle">
    <string>Dialog</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">background: #fff</string>
+  </property>
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>

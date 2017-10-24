@@ -35,3 +35,6 @@ HEADERS  += mainwindow.h \
 FORMS    += mainwindow.ui \
     logindialog.ui \
     signupwidget.ui
+
+RESOURCES += \
+    images.qrc
