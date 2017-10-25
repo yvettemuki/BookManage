@@ -54,3 +54,9 @@ void LoginDialog::on_exit_btn_clicked()
 {
 
 }
+
+void LoginDialog::on_signup_btn_clicked()
+{
+    //点击注册按钮时
+    accept();
+}
